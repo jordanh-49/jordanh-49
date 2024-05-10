@@ -4,9 +4,9 @@
 
 #### A Data Analyst by day ☼ and a Pipeline builder by night ☾
 
-**Data professional** working in the Sports Analytics industry in Australia. Aspiring 
+Current **Data professional** working in the Sports Analytics industry in Australia. 
 
-**Analytics Engineer** experienced in `#dbt`, `#snowflake` & `#dagster`
+Aspiring **Analytics Engineer** experienced in `#dbt`, `#snowflake` & `#dagster`
 
 - ⚙️ Languages other than English: `.py`, `.sql`, `.r`, `.html`, `.css`, `.cypher`
 - 🌍 Avid user and member of the **Streamlit Community**
